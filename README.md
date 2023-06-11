@@ -4,8 +4,7 @@ Hello! Welcome to my GitHub profile! My name is Eyvaz Bayramov and I am interest
 
 ## Skills and Interests
 
-- **DevOps:** I'm getting into DevOps and learning about continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and containers. It's amazing how these techniques help automate processes and make software development more efficient.
-
+- **DevOps:** I'm getting into DevOps and learning about continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and containers.
 - **Linux:** I enjoy working with Linux and using powerful command line tools (like build systems, CLI editors like VIM, NEOVIM, shell scripting) to get things done. There is so much to learn about the Linux ecosystem and I can't wait to dive deeper. 
 - Linux is my main operating system and I set up all my projects on Linux. I currently use Arch Linux and am constantly learning and expanding my knowledge to become more proficient. My goal is to have a deep understanding of Linux and be a competent resource in the Linux community.
 
@@ -17,7 +16,7 @@ I have worked on several projects and here are some highlights:
 
 1. **Automated Deployment Pipeline**. I recently created a pipeline using Jenkins and Docker. It helps automate the process of building, testing, and deploying web applications. It was a great learning experience!
 
-2. **Infrastructure as code**. I have been looking into tools like Terraform and Ansible to automate the provisioning and management of cloud resources on AWS. It's amazing to see how we can build and manage infrastructure with code.
+2. **Infrastructure as code**. I have been looking into tools like Terraform and Ansible to automate the provisioning and management of cloud resources on AWS.
 
 ## Contributions
 
