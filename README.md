@@ -24,7 +24,7 @@ I believe in the power of open source and collaboration. Although I'm still rela
 
 ## Contact
 
-If you would like to contact me, email me at [my email](mailto:eyvaz.bayramov2018@gmail.com) or contact me on LinkedIn [here](). I'm always open to discussing new opportunities, collaborating on projects, or even just having a friendly conversation about technology.
+If you would like to contact me, email me at [my email](mailto:eyvaz.bayramov2018@gmail.com) or contact me on LinkedIn [here](https://www.linkedin.com/in/eyvaz-bayramov/). I'm always open to discussing new opportunities, collaborating on projects, or even just having a friendly conversation about technology.
 
 Thank you for visiting my profile and I look forward to connecting with you!
 # mr3iscuit
